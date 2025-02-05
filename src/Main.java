@@ -13,6 +13,14 @@ public class Main {
         SinglyLinkedListExample.main(args);
         DoublyLinkedListExample.main(args);
         CircularLinkedListExample.main(args);
+        SimplifyLinkedList.main(args);
+        QueueDequeExample.main(args);
+        StackExample.main(args);
+        BinaryTree.main(args);
+        BinarySearchExample.main(args);
+        BinaryTreeUsingBuiltIn.main(args);
+        GraphExample.main(args);
+        SimpleGraph.main(args);
 
 
     }
