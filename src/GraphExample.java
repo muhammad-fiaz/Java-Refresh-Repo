@@ -4,7 +4,7 @@ public class GraphExample {
 
     // Representing a graph using an adjacency list
     static class Graph {
-        private Map<Integer, List<Integer>> adjList;
+        private final Map<Integer, List<Integer>> adjList;
 
         public Graph() {
             adjList = new HashMap<>();

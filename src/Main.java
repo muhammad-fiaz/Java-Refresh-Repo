@@ -21,6 +21,13 @@ public class Main {
         BinaryTreeUsingBuiltIn.main(args);
         GraphExample.main(args);
         SimpleGraph.main(args);
+        Backtracking.main(args);
+        BinaryTreeSimplify.main(args);
+        BinarySearchTree.main(args);
+        GraphTraversal.main(args);
+        MatrixOperations.main(args);
+        SearchingExamples.main(args);
+        SortingAlgorithms.main(args);
 
 
     }
