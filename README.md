@@ -1,4 +1,4 @@
-# Usage
+# About This Repo
 
 This repository is used to refresh knowledge of essential programming concepts and methods across various categories. It includes code examples for common operations on data structures such as arrays, strings, numbers, and linked lists, as well as type conversions.
 
